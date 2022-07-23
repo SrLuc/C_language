@@ -4,10 +4,7 @@
 
 <p>
 
-#### This directory contains
-#### - Exercises
-#### - Small Projetcs
-#### - insights
+#### This directory contains  - Exercises / Small Projetcs and insights
 
 
 

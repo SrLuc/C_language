@@ -44,6 +44,9 @@ int roomnotes()
 
 		system("clear||cls");
 
+	printf("\t\7- - R E S U L T S - - -\n\n");
+
+
 	for (counter=0 ; counter<numberStudents ; counter++)
 	{
 		fflush(stdin);
@@ -51,6 +54,11 @@ int roomnotes()
 		printf("Math note : %.2f\n", students[counter].math);
 		printf("physics note %.2f\n", students[counter].physical);
 		printf("Average = %.2f\n", students[counter].average);
+		if (students[counter].average>=5){
+			printf("approved\n");}
+		else{
+			printf("disapproved\n");
+		}
 		printf("\n");
 		fflush(stdin);
 	}

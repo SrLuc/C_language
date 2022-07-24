@@ -4,7 +4,27 @@
 
 <p>
 
-#### This directory contains  - Exercises / Small Projetcs and insights
+#### **This directory contains**  <br> Exercises <br>Small Projetcs <br> insights 
+<br>
+
+### **How to use main** 
+
+### In the code it is written: <br> 
+
+include <stdio.h> <br>
+Include the .h file with the syntax #include "file.h" <br>
+
+
+int main () 
+{
+
+    return 0;
+}
+
+Ready, the library will be available to use, now just call the desired function
+
+
+
 
 
 

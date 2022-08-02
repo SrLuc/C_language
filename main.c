@@ -3,7 +3,7 @@
 #include "C:\Users\ruan-\OneDrive\Documentos\GitHub\C_language\Codes\room _notes.h"
 
 int main ()
-{
+{   
     roomnotes();
     getchar();
     return 0;
